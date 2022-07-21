@@ -1,0 +1,26 @@
+; Digitizing is configured to probe the face from outside to center
+; Initial probing direction is towards the wheel face
+#100 = 1.00
+
+; Initial probing angle
+#101 = 180.0000
+
+; Initial direction to probe along
+#102 = 90.0000
+
+; Probe step-over amount
+#106 = 0.5000
+
+; Feed/Rev
+#108 = 0.1250
+
+; Spindle Speed
+#109 = 500.0000
+
+; Constant Surface Speed - #118 = 2 = yes
+#118 = 1.0000
+
+; Max Spindle Speed for CSS
+#119 = 0.0000
+
+M99

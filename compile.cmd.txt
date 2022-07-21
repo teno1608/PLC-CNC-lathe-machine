@@ -1,0 +1,3 @@
+cd\cnct
+mpucomp.exe %1 mpu.plc
+pause

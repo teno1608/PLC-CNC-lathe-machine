@@ -1,0 +1,54 @@
+102 Error initializing CPU...cannot continue.            11
+111 X Slow Jog modified: 1000 -> 1500                    82
+199 CNC Started                                         104
+201 Exiting CNC due to a known error (63)                11
+204 Exiting CNC...Normal Exit (66)                       14
+301 Stopped                                            2193
+302 Moving...                                           576
+303 Paused...                                            34
+304 MDI...                                              648
+306 Job finished                                        139
+307 Operator abort:  job cancelled                      507
+309 Waiting for CYCLE START button                      448
+311 Waiting for memory #120 (M100)                      291
+313 Waiting for dwell time (M26)                        159
+315 Searching for line 1...                             174
+325 Limit:  job cancelled                                19
+327 Fault:  job cancelled                               188
+334 Locating position to resume job...                    2
+335 Emergency stop released                             342
+338 Job cancelled                                        11
+339 Jogging...                                          350
+340 Z+ limit (#50001) cleared                           157
+406 Emergency stop detected                             378
+407 Z+ limit (#50001) tripped                           181
+410 X axis(2) position error                              5
+412 X axis(2) encoder differential error                 82
+417 Abnormal end of job                                   1
+418 Search Line or Block not found                       10
+422 Check Jog Panel cable                                 3
+452 PC Receive Data Error                                27
+501 Invalid character, line 2                            12
+502 Invalid G code                                        1
+511 Missing parameter                                     1
+555 N Accel time modified: 0.0000 -> 0.5000               1
+777 Z Pitch modified:    0.2104 ->    0.2001 (turn       67
+907 X axis travel exceeded                              377
+930 Log Level Configuration file not found... Crea        1
+933 Log file initialized                                  1
+944 MPU requested resend # 3                             20
+945 PC requested resend # 7                              41
+946 PC resending # 1139                                  21
+999 Parm #960 modified: 1.60000 -> 1.70000               72
+2050 Auto Coolant Mode                                   25
+2051 Manual Coolant Mode                                 30
+2099 Message Cleared                                    267
+4053 Select Auto Spindle, press CYCLE START              16
+4054 Select Auto Coolant, press CYCLE START               1
+4056 Invalid tool number                                  1
+5038 SPECIFIED SPIN SPEED < MIN SPIN SPEED                2
+5052 Warning: Lube Low                                    1
+9030 SPINDLE FAULT!                                      47
+9036 LUBE FAULT                                           6
+9039 Software Ready Fault                                26
+9057 !!!!!Door Open!!!!!                                  1

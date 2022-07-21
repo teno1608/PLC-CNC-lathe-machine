@@ -1,0 +1,11 @@
+;;;;;;;;;;;;;;;;;;;;;;;
+; File:   cnc10.tch
+;         Custom tool change
+m107      ; send tool number
+m107      ; multiple times so 
+m107      ; executor has time to
+m107      ; see the new number
+m94/8     ; turn on M6
+m101/70120  ; wait for (TurretLocked_M) MEM120 to close
+m95/8     ; turn off M6
+m100/70120  ; wait for (TurretLocked_M) MEM120 to open

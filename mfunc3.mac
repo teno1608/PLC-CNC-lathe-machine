@@ -1,0 +1,17 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 
+; File: mfunc3.mac
+; Custom M-code Spindle Forward
+; M3 - OUT07 / SpindleEnableOut On
+; Displays message to select auto spindle mode if it is not set
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 
+IF #4202 || #4201 THEN GOTO 200
+M95 /2
+M94 /1
+IF #61058 THEN GOTO 200 ;skip the check if AutoSpindle is on
+G4 P.1
+#140 = 1.5 
+N100
+IF !#61058 THEN M225 #140 "Please Select Auto Spindle To Continue!" ;61091 = JPO35/SpindleAutoManualLED
+G4 P.5
+IF !#61058 THEN GOTO 100
+N200

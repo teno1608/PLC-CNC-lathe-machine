@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pwm_parameters>
+  <version_number>1</version_number>
+  <Axis index="0">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="1">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="2">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="3">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="4">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="5">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="6">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+  <Axis index="7">
+    <kp>0.0000000000000000</kp>
+    <ki>0.0000000000000000</ki>
+    <kd>0.0000000000000000</kd>
+    <varlead>0.0000000000000000</varlead>
+    <poles>0</poles>
+    <current>0</current>
+    <inertia>0.0000000000000000</inertia>
+    <kt_rms>0.0000000000000000</kt_rms>
+  </Axis>
+</pwm_parameters>

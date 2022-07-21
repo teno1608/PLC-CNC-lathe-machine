@@ -1,0 +1,17 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 
+; File: mfunc8.mac
+; Custom M-code Flood Coolant
+; M8 - OUT3 / Flood
+; Displays message to select auto coolant mode if it is not set
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 
+IF #4201 || #4202 THEN GOTO 200
+M95/5
+M94/3
+IF #61077 THEN GOTO 200 ;skip check if auto-coolant is on
+#140 = 1.5 
+G4 P0.1
+N100
+IF !#61077 THEN M225 #140 "Please Select Auto Coolant To Continue!" ;61160 = JPO104/CoolantAutoManualLED
+G4 P0.5
+IF !#61077 THEN GOTO 100
+N200

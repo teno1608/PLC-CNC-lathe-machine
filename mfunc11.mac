@@ -1,0 +1,5 @@
+;-------
+;M11 macro
+; Turns clamp output off (M10 turns it on)
+;-------
+M95 /4

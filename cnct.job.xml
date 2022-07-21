@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<job_data>
+  <misc_job_data>
+    <Version>1.0000000000000000</Version>
+    <x_set_flags>262143</x_set_flags>
+    <tool_lib_offset>1</tool_lib_offset>
+    <tool_lib_row>1</tool_lib_row>
+    <offset_lib_offset>1</offset_lib_offset>
+    <offset_lib_row>2</offset_lib_row>
+    <adjust_lib_offset>6</adjust_lib_offset>
+    <adjust_lib_row>10</adjust_lib_row>
+    <icn_filelist_details_on_flag>false</icn_filelist_details_on_flag>
+    <number_parts_required>0</number_parts_required>
+    <job_repeat>1</job_repeat>
+    <block_skips>0</block_skips>
+    <filter_date>736585</filter_date>
+    <glscope_file_counter>49</glscope_file_counter>
+    <modal_length_offset_number axis="0">1</modal_length_offset_number>
+    <modal_length_offset_direction axis="0">0</modal_length_offset_direction>
+    <vector_dir axis="0">-1</vector_dir>
+    <home_direction axis="0">0</home_direction>
+    <modal_length_offset_number axis="1">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="1">0</modal_length_offset_direction>
+    <vector_dir axis="1">-1</vector_dir>
+    <home_direction axis="1">0</home_direction>
+    <modal_length_offset_number axis="2">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="2">0</modal_length_offset_direction>
+    <vector_dir axis="2">1</vector_dir>
+    <home_direction axis="2">0</home_direction>
+    <modal_length_offset_number axis="3">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="3">0</modal_length_offset_direction>
+    <vector_dir axis="3">1</vector_dir>
+    <home_direction axis="3">0</home_direction>
+    <modal_length_offset_number axis="4">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="4">0</modal_length_offset_direction>
+    <vector_dir axis="4">1</vector_dir>
+    <home_direction axis="4">0</home_direction>
+    <modal_length_offset_number axis="5">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="5">0</modal_length_offset_direction>
+    <vector_dir axis="5">-1</vector_dir>
+    <home_direction axis="5">0</home_direction>
+    <modal_length_offset_number axis="6">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="6">0</modal_length_offset_direction>
+    <vector_dir axis="6">1</vector_dir>
+    <home_direction axis="6">0</home_direction>
+    <modal_length_offset_number axis="7">0</modal_length_offset_number>
+    <modal_length_offset_direction axis="7">0</modal_length_offset_direction>
+    <vector_dir axis="7">1</vector_dir>
+    <home_direction axis="7">0</home_direction>
+  </misc_job_data>
+  <PID_collection>
+    <Version>1.0000000000000000</Version>
+    <axis>1</axis>
+    <density>1</density>
+    <type>0</type>
+  </PID_collection>
+  <job_file_coordinate_data>
+    <Version>1.0000000000000000</Version>
+    <coordinate_system>1</coordinate_system>
+    <g52_shift_distance axis="0">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="1">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="2">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="3">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="4">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="5">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="6">0.0000000000000000</g52_shift_distance>
+    <g52_shift_distance axis="7">0.0000000000000000</g52_shift_distance>
+  </job_file_coordinate_data>
+  <job_resume_criteria>
+    <Version>1.0000000000000000</Version>
+    <program_stack_level>-1</program_stack_level>
+    <job_file_path stack_level="0">c:\cnct\ncfiles\DAU1THANDAN548D.txt</job_file_path>
+    <job_ftime stack_level="0">
+      <Version>1.0000000000000000</Version>
+      <two_second>28</two_second>
+      <minute>54</minute>
+      <hour>14</hour>
+      <day>17</day>
+      <month>9</month>
+      <year>37</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="0">1</subprogram_repeat_countdown>
+    <program_number stack_level="0">20000</program_number>
+    <line_number stack_level="0">60</line_number>
+    <job_file_path stack_level="1">C:\cnct\cnctch.mac</job_file_path>
+    <job_ftime stack_level="1">
+      <Version>1.0000000000000000</Version>
+      <two_second>13</two_second>
+      <minute>10</minute>
+      <hour>13</hour>
+      <day>7</day>
+      <month>9</month>
+      <year>35</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="1">1</subprogram_repeat_countdown>
+    <program_number stack_level="1">20001</program_number>
+    <line_number stack_level="1">9</line_number>
+    <job_file_path stack_level="2">C:\cnct\cnctch.mac</job_file_path>
+    <job_ftime stack_level="2">
+      <Version>1.0000000000000000</Version>
+      <two_second>13</two_second>
+      <minute>10</minute>
+      <hour>13</hour>
+      <day>7</day>
+      <month>9</month>
+      <year>35</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="2">1</subprogram_repeat_countdown>
+    <program_number stack_level="2">20002</program_number>
+    <line_number stack_level="2">9</line_number>
+    <job_file_path stack_level="3"></job_file_path>
+    <job_ftime stack_level="3">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="3">0</subprogram_repeat_countdown>
+    <program_number stack_level="3">0</program_number>
+    <line_number stack_level="3">0</line_number>
+    <job_file_path stack_level="4"></job_file_path>
+    <job_ftime stack_level="4">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="4">0</subprogram_repeat_countdown>
+    <program_number stack_level="4">0</program_number>
+    <line_number stack_level="4">0</line_number>
+    <job_file_path stack_level="5"></job_file_path>
+    <job_ftime stack_level="5">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="5">0</subprogram_repeat_countdown>
+    <program_number stack_level="5">0</program_number>
+    <line_number stack_level="5">0</line_number>
+    <job_file_path stack_level="6"></job_file_path>
+    <job_ftime stack_level="6">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="6">0</subprogram_repeat_countdown>
+    <program_number stack_level="6">0</program_number>
+    <line_number stack_level="6">0</line_number>
+    <job_file_path stack_level="7"></job_file_path>
+    <job_ftime stack_level="7">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="7">0</subprogram_repeat_countdown>
+    <program_number stack_level="7">0</program_number>
+    <line_number stack_level="7">0</line_number>
+    <job_file_path stack_level="8"></job_file_path>
+    <job_ftime stack_level="8">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="8">0</subprogram_repeat_countdown>
+    <program_number stack_level="8">0</program_number>
+    <line_number stack_level="8">0</line_number>
+    <job_file_path stack_level="9"></job_file_path>
+    <job_ftime stack_level="9">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="9">0</subprogram_repeat_countdown>
+    <program_number stack_level="9">0</program_number>
+    <line_number stack_level="9">0</line_number>
+    <job_file_path stack_level="10"></job_file_path>
+    <job_ftime stack_level="10">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="10">0</subprogram_repeat_countdown>
+    <program_number stack_level="10">0</program_number>
+    <line_number stack_level="10">0</line_number>
+    <job_file_path stack_level="11"></job_file_path>
+    <job_ftime stack_level="11">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="11">0</subprogram_repeat_countdown>
+    <program_number stack_level="11">0</program_number>
+    <line_number stack_level="11">0</line_number>
+    <job_file_path stack_level="12"></job_file_path>
+    <job_ftime stack_level="12">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="12">0</subprogram_repeat_countdown>
+    <program_number stack_level="12">0</program_number>
+    <line_number stack_level="12">0</line_number>
+    <job_file_path stack_level="13"></job_file_path>
+    <job_ftime stack_level="13">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="13">0</subprogram_repeat_countdown>
+    <program_number stack_level="13">0</program_number>
+    <line_number stack_level="13">0</line_number>
+    <job_file_path stack_level="14"></job_file_path>
+    <job_ftime stack_level="14">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="14">0</subprogram_repeat_countdown>
+    <program_number stack_level="14">0</program_number>
+    <line_number stack_level="14">0</line_number>
+    <job_file_path stack_level="15"></job_file_path>
+    <job_ftime stack_level="15">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="15">0</subprogram_repeat_countdown>
+    <program_number stack_level="15">0</program_number>
+    <line_number stack_level="15">0</line_number>
+    <job_file_path stack_level="16"></job_file_path>
+    <job_ftime stack_level="16">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="16">0</subprogram_repeat_countdown>
+    <program_number stack_level="16">0</program_number>
+    <line_number stack_level="16">0</line_number>
+    <job_file_path stack_level="17"></job_file_path>
+    <job_ftime stack_level="17">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="17">0</subprogram_repeat_countdown>
+    <program_number stack_level="17">0</program_number>
+    <line_number stack_level="17">0</line_number>
+    <job_file_path stack_level="18"></job_file_path>
+    <job_ftime stack_level="18">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="18">0</subprogram_repeat_countdown>
+    <program_number stack_level="18">0</program_number>
+    <line_number stack_level="18">0</line_number>
+    <job_file_path stack_level="19"></job_file_path>
+    <job_ftime stack_level="19">
+      <Version>1.0000000000000000</Version>
+      <two_second>0</two_second>
+      <minute>0</minute>
+      <hour>0</hour>
+      <day>0</day>
+      <month>0</month>
+      <year>0</year>
+    </job_ftime>
+    <subprogram_repeat_countdown stack_level="19">0</subprogram_repeat_countdown>
+    <program_number stack_level="19">0</program_number>
+    <line_number stack_level="19">0</line_number>
+    <cycle_repeat_countdown>0</cycle_repeat_countdown>
+    <cycle_progress>0</cycle_progress>
+    <stock_removal_counter>0</stock_removal_counter>
+    <WCS_modified_in_job>false</WCS_modified_in_job>
+  </job_resume_criteria>
+  <last_job_file>c:\cnct\ncfiles\DAU1THANDAN548D.txt</last_job_file>
+  <part_count>2</part_count>
+  <offset_entry_mode>90</offset_entry_mode>
+  <edge_finder_diameter>0.0000000000000000</edge_finder_diameter>
+  <runm_forced_tool_change_flag>1</runm_forced_tool_change_flag>
+  <icn_part_program_file>C:\icn_lath\test_icn.lth</icn_part_program_file>
+  <ssobnella>0</ssobnella>
+  <approach_direction axis="0">0</approach_direction>
+  <axis_home_set axis="0">1</axis_home_set>
+  <ref_set axis="0">1</ref_set>
+  <ref axis="0">-25.1763649048608613</ref>
+  <approach_direction axis="1">0</approach_direction>
+  <axis_home_set axis="1">1</axis_home_set>
+  <ref_set axis="1">1</ref_set>
+  <ref axis="1">9.1377430270996260</ref>
+  <approach_direction axis="2">0</approach_direction>
+  <axis_home_set axis="2">0</axis_home_set>
+  <ref_set axis="2">0</ref_set>
+  <ref axis="2">0.0000000000000000</ref>
+  <approach_direction axis="3">0</approach_direction>
+  <axis_home_set axis="3">0</axis_home_set>
+  <ref_set axis="3">0</ref_set>
+  <ref axis="3">0.0000000000000000</ref>
+  <approach_direction axis="4">0</approach_direction>
+  <axis_home_set axis="4">0</axis_home_set>
+  <ref_set axis="4">0</ref_set>
+  <ref axis="4">0.0000000000000000</ref>
+  <approach_direction axis="5">0</approach_direction>
+  <axis_home_set axis="5">0</axis_home_set>
+  <ref_set axis="5">0</ref_set>
+  <ref axis="5">0.0000000000000000</ref>
+  <approach_direction axis="6">0</approach_direction>
+  <axis_home_set axis="6">0</axis_home_set>
+  <ref_set axis="6">0</ref_set>
+  <ref axis="6">0.0000000000000000</ref>
+  <approach_direction axis="7">0</approach_direction>
+  <axis_home_set axis="7">0</axis_home_set>
+  <ref_set axis="7">0</ref_set>
+  <ref axis="7">0.0000000000000000</ref>
+  <initial_workpiece_origin index="0">
+    <axis index="0">-25.1763649048608613</axis>
+    <axis index="1">-2.5122569729003743</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="1">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="2">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="3">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="4">
+    <axis index="0">23.9375000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="5">
+    <axis index="0">-89.1044699999999636</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="6">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">-0.0000392224120986</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="7">
+    <axis index="0">5.0000650544992027</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="8">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="9">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="10">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="11">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="12">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="13">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="14">
+    <axis index="0">-155.3976440429687500</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="15">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="16">
+    <axis index="0">-164.7139325121892739</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+  <initial_workpiece_origin index="17">
+    <axis index="0">0.0000000000000000</axis>
+    <axis index="1">2.4999607775879014</axis>
+    <axis index="2">0.0000000000000000</axis>
+    <axis index="3">0.0000000000000000</axis>
+    <axis index="4">0.0000000000000000</axis>
+    <axis index="5">0.0000000000000000</axis>
+    <axis index="6">0.0000000000000000</axis>
+    <axis index="7">0.0000000000000000</axis>
+  </initial_workpiece_origin>
+</job_data>

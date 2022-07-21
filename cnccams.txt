@@ -1,0 +1,2 @@
+Comp Man :Component Manuals
+  c:\windows\explorer.exe /e,Component Manuals

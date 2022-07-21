@@ -1,0 +1,14 @@
+;=============================================
+;This is the Lathe GCode program that will be
+;run when the Cycle Start button is pressed in
+;the PID settings menu.
+;=============================================
+G20       ; Inch mode
+G98       ; Feed per minute mode
+F300     ; Set the feedrate
+G4 P0.5   ; Delay for 0.1 second
+G1 x-6.0   ; Move to our starting position
+G4 P0.6   ; Delay for 0.1 second
+G1 x-10.0   ; Execute a short move
+G4 P0.6   ; Delay for 0.1 second
+M102     ; Rerun the program

@@ -1,0 +1,17 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 
+; File: mfunc7.mac
+; Custom M-code Mist Coolant
+; M7 - OUT4 / MistSolOut
+; Displays message to select auto coolant mode if it is not set
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; 
+IF #4202 || #4201 THEN GOTO 200
+M95/3
+M94/5
+IF #61077 THEN GOTO 200 ;skip check if auto-coolant is on
+#140 = 1.5 
+G4 P0.1
+N100
+IF !#61077 THEN M225 #140 "Please Select Auto Coolant To Continue!" ;61160 = JPO104/CoolantAutoManualLED
+G4 P0.5
+IF !#61077 THEN GOTO 100
+N200

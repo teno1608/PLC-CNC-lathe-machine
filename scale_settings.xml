@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScaleSettings Version="1.0">
+  <Axis AxisNumber="1" Enabled="No" Input="0" CountsPerUnit="76.2000000000000028" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="2" Enabled="No" Input="0" CountsPerUnit="76.2000000000000028" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="3" Enabled="No" Input="0" CountsPerUnit="0.0000000000000000" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="4" Enabled="No" Input="0" CountsPerUnit="0.0000000000000000" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="5" Enabled="No" Input="0" CountsPerUnit="0.0000000000000000" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="6" Enabled="No" Input="0" CountsPerUnit="0.0000000000000000" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="7" Enabled="No" Input="0" CountsPerUnit="0.0000000000000000" Deadband="0" Velocity="0.0000000000000000"/>
+  <Axis AxisNumber="8" Enabled="No" Input="0" CountsPerUnit="0.0000000000000000" Deadband="0" Velocity="0.0000000000000000"/>
+</ScaleSettings>

@@ -1,0 +1,21 @@
+;Lead-in Position
+#138 = 15.2122;X
+#139 = 0.1135;Z
+
+;Start Point
+#136 = 15.2122;X
+#137 = -0.0229;Z
+
+;End Point
+#104 = 2.1121;X
+#105 = 0.7003;Z
+
+;Lead-out Position
+#132 = 1.8944;X
+#133 = 0.7003;Z
+
+;Retract position
+#130 = 1.8944;X
+#131 = 1.7110;Z
+
+M99
